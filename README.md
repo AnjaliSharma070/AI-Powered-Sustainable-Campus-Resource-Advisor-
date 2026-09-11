@@ -219,3 +219,17 @@ The system is designed for:
 
 ```bash
 git clone https://github.com/AnjaliSharma070/AI-Powered-Sustainable-Campus-Resource-Advisor-.git
+
+cd AI-Powered-Sustainable-Campus-Resource-Advisor-
+
+python -m venv .venv
+
+.venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
+ollama run granite4.1:3b
+
+python -m streamlit run app.py
+
+http://127.0.0.1:8501
