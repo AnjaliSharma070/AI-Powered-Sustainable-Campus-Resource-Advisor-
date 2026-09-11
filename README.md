@@ -14,6 +14,7 @@ The system follows the flow:
 
 ---
 
+
 ## 🎯 Problem Statement
 
 Educational campuses consume significant amounts of electricity, water, paper and generate different types of waste every day. However, resource consumption is often monitored through basic records or manual observation, making it difficult to identify unusual usage patterns, understand their causes and prioritize corrective actions.
@@ -212,3 +213,9 @@ The system is designed for:
                  Impact Simulation
                          ↓
               Sustainability Report
+## ⚙️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AnjaliSharma070/AI-Powered-Sustainable-Campus-Resource-Advisor-.git
