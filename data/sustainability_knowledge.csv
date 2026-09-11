@@ -1,0 +1,25 @@
+Topic,Resource,Guidance,Recommended For,Alignment
+Energy Efficiency,Electricity,Use energy-efficient LED lighting and switch off lights in unoccupied rooms.,Campus Facilities,SDG 7
+HVAC Management,Electricity,Optimize HVAC operating schedules according to room occupancy and avoid unnecessary cooling.,Maintenance Team,SDG 7
+Equipment Management,Electricity,Switch off computers laboratory equipment and other high-load devices when they are not required.,Students and Staff,SDG 7
+Energy Monitoring,Electricity,Monitor electricity consumption regularly to identify unusual increases and investigate high-consumption areas.,Facility Managers,SDG 7
+Water Conservation,Water,Inspect taps pipelines storage tanks and fixtures regularly to identify leaks and prevent water loss.,Maintenance Team,SDG 6
+Water Usage,Water,Avoid unnecessary water use and encourage responsible consumption across campus facilities.,Students and Staff,SDG 6
+Leak Detection,Water,Investigate sudden increases in water consumption because they may indicate leakage overflow or abnormal usage.,Maintenance Team,SDG 6
+Rainwater Management,Water,Where suitable use rainwater harvesting and water reuse practices to reduce dependence on fresh water.,Campus Administration,SDG 6
+Waste Segregation,Waste,Separate recyclable organic and other waste at the point of disposal using clearly labelled bins.,Students and Staff,SDG 12
+Waste Reduction,Waste,Reduce single-use materials and avoid unnecessary consumption to minimize waste generation.,Students and Staff,SDG 12
+Recycling,Waste,Increase recycling of paper plastic metal and other recoverable materials through appropriate collection systems.,Campus Administration,SDG 12
+Waste Monitoring,Waste,Monitor waste generation by building or area to identify locations with unusually high waste production.,Sustainability Coordinators,SDG 12
+Paper Reduction,Paper,Prefer digital forms online submissions and electronic documentation whenever practical.,Students and Staff,SDG 12
+Responsible Printing,Paper,Avoid unnecessary printing and use double-sided printing when physical documents are required.,Students and Staff,SDG 12
+Paper Monitoring,Paper,Track paper consumption over time and identify departments or buildings with unusually high usage.,Administrators,SDG 12
+Sustainable Procurement,All Resources,Prefer durable reusable and resource-efficient products when purchasing campus supplies and equipment.,Campus Administration,SDG 12
+Data-Driven Sustainability,All Resources,Use consumption data and anomaly detection to identify unusual resource patterns and prioritize corrective actions.,Sustainability Coordinators,SDG 12
+Regular Audits,All Resources,Conduct periodic resource-use audits to evaluate performance and identify opportunities for improvement.,Facility Managers,SDG 12
+Student Awareness,All Resources,Provide sustainability awareness activities so students and staff understand how everyday actions affect resource consumption.,Sustainability Coordinators,SDG 12
+Responsible AI,AI System,AI recommendations should be treated as decision-support information and verified by responsible campus personnel before action.,System Administrators,Responsible AI
+Privacy,AI System,Avoid collecting unnecessary personal information when using campus resource data and restrict access to appropriate personnel.,System Administrators,Responsible AI
+Transparency,AI System,Explain important AI findings using understandable evidence such as observed usage baseline values and deviation percentages.,System Administrators,Responsible AI
+Human Oversight,AI System,Human staff should review significant alerts before making operational decisions based on AI recommendations.,Facility Managers,Responsible AI
+Sustainability Goal,All Resources,Prioritize practical actions that reduce unnecessary resource consumption while maintaining essential campus services.,Campus Administration,SDG 12
