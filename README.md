@@ -214,8 +214,7 @@ The system is designed for:
                          ↓
               Sustainability Report
 
-
-
+```
 
 ## ⚙️ How to Run
 
@@ -247,6 +246,4 @@ python -m streamlit run app.py
 http://127.0.0.1:8501
 ```
 
-python -m streamlit run app.py
 
-http://127.0.0.1:8501
