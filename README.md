@@ -213,22 +213,36 @@ The system is designed for:
                  Impact Simulation
                          ↓
               Sustainability Report
+
 ## ⚙️ How to Run
 
-### 1. Clone the repository
+### 1. Clone and set up the project
 
 ```bash
 git clone https://github.com/AnjaliSharma070/AI-Powered-Sustainable-Campus-Resource-Advisor-.git
-
 cd AI-Powered-Sustainable-Campus-Resource-Advisor-
-
 python -m venv .venv
-
 .venv\Scripts\Activate.ps1
-
 pip install -r requirements.txt
+```
 
+### 2. Start IBM Granite using Ollama
+
+```bash
 ollama run granite4.1:3b
+```
+
+### 3. Start the Streamlit application
+
+```bash
+python -m streamlit run app.py
+```
+
+### 4. Open the application
+
+```text
+http://127.0.0.1:8501
+```
 
 python -m streamlit run app.py
 
