@@ -243,7 +243,7 @@ python -m streamlit run app.py
 ### 4. Open the application
 
 ```text
-http://127.0.0.1:8501
+http://127.0.0.1:8502
 ```
 
 
